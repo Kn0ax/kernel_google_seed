@@ -1,0 +1,1 @@
+cmd_vmlinux := /bin/bash /home/vin4ester33/Android/android_kernel_cyanogen_msm8916/msm8916/scripts/link-vmlinux.sh /home/vin4ester33/Android/utility/arm-eabi-4.9/bin/arm-eabi-ld -EL  -p --no-undefined -X --build-id 
